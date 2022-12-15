@@ -1,3 +1,1 @@
-### Welcome Java Home
-
-#### Dummy Commit
+### Welcome
