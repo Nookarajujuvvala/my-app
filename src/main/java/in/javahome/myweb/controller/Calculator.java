@@ -20,5 +20,8 @@ public class Calculator {
 	public int reminder(int i, int j){
 		return i%j;
 	}
-	
+	public void sonarDemo(){
+		String name = null;
+		name.toString();
+	}
 }
